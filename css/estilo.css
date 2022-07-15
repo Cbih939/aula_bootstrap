@@ -1,0 +1,30 @@
+
+.quemsomos{
+    background-color: blueviolet;
+    color:antiquewhite;
+    margin:0;
+    padding:10px;
+}
+
+.parceiros{
+    background-color:aquamarine;
+    color:black;
+    margin:0;
+    padding:10px;
+}
+
+.servicos{
+    background-color:brown; 
+    color:antiquewhite;
+    margin:0;
+    padding:10px;
+}
+
+.margin{
+    padding-bottom:10px;
+}
+
+.bg-footer{
+    padding-top:3%;
+    padding-bottom:3%;
+}
